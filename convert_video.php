@@ -86,7 +86,7 @@ if(isset($_GET['reconvert'])){
 		$reconvert = false;
 }
 
-//if ffmpeg is converting video file
+//if ffmpeg is converting 2 video files
 if(is_ffmpeg_ready()){	
 	//ffmpeg is ready to convert file
 	$svr_root = $_SERVER['DOCUMENT_ROOT']."/ffmpeg_apple";
