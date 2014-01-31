@@ -1,0 +1,213 @@
+===========================================================
+Monday 27th of January 2014 03:31:14 PM
+===========================================================
+
+ffmpeg version N-60202-g6369766 Copyright (c) 2000-2014 the FFmpeg developers
+  built on Jan 27 2014 01:57:25 with gcc 4.8.2 (GCC)
+  configuration: --enable-gpl --enable-version3 --disable-w32threads --enable-avisynth --enable-bzlib --enable-fontconfig --enable-frei0r --enable-gnutls --enable-iconv --enable-libass --enable-libbluray --enable-libcaca --enable-libfreetype --enable-libgsm --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libx264 --enable-libxavs --enable-libxvid --enable-zlib
+  libavutil      52. 63.100 / 52. 63.100
+  libavcodec     55. 49.100 / 55. 49.100
+  libavformat    55. 26.100 / 55. 26.100
+  libavdevice    55.  5.102 / 55.  5.102
+  libavfilter     4.  1.101 /  4.  1.101
+  libswscale      2.  5.101 /  2.  5.101
+  libswresample   0. 17.104 /  0. 17.104
+  libpostproc    52.  3.100 / 52.  3.100
+[wmv3 @ 0260e700] Extra data: 8 bits left, value: 0
+Guessed Channel Layout for  Input Stream #0.0 : stereo
+Input #0, asf, from 'C:\wamp\www\testHLS\dog-race.wmv':
+  Metadata:
+    WMFSDKNeeded    : 0.0.0.0000
+    DeviceConformanceTemplate: MP@ML
+    NumberOfFrames  : 1375
+    WMFSDKVersion   : 11.0.5721.5275
+    IsVBR           : 0
+  Duration: 00:00:55.46, start: 0.000000, bitrate: 727 kb/s
+    Stream #0:0: Audio: wmav2 (a[1][0][0] / 0x0161), 44100 Hz, stereo, fltp, 128 kb/s
+    Stream #0:1: Video: wmv3 (Main) (WMV3 / 0x33564D57), yuv420p, 512x288, 700 kb/s, SAR 1:1 DAR 16:9, 25 tbr, 1k tbn, 1k tbc
+Please use -b:a or -b:v, -b is ambiguous
+Invalid frame size: 480×320.
+
+===========================================================
+Monday 27th of January 2014 03:32:07 PM
+===========================================================
+
+ffmpeg version N-60202-g6369766 Copyright (c) 2000-2014 the FFmpeg developers
+  built on Jan 27 2014 01:57:25 with gcc 4.8.2 (GCC)
+  configuration: --enable-gpl --enable-version3 --disable-w32threads --enable-avisynth --enable-bzlib --enable-fontconfig --enable-frei0r --enable-gnutls --enable-iconv --enable-libass --enable-libbluray --enable-libcaca --enable-libfreetype --enable-libgsm --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libx264 --enable-libxavs --enable-libxvid --enable-zlib
+  libavutil      52. 63.100 / 52. 63.100
+  libavcodec     55. 49.100 / 55. 49.100
+  libavformat    55. 26.100 / 55. 26.100
+  libavdevice    55.  5.102 / 55.  5.102
+  libavfilter     4.  1.101 /  4.  1.101
+  libswscale      2.  5.101 /  2.  5.101
+  libswresample   0. 17.104 /  0. 17.104
+  libpostproc    52.  3.100 / 52.  3.100
+[wmv3 @ 024ee700] Extra data: 8 bits left, value: 0
+Guessed Channel Layout for  Input Stream #0.0 : stereo
+Input #0, asf, from 'C:\wamp\www\testHLS\dog-race.wmv':
+  Metadata:
+    WMFSDKNeeded    : 0.0.0.0000
+    DeviceConformanceTemplate: MP@ML
+    NumberOfFrames  : 1375
+    WMFSDKVersion   : 11.0.5721.5275
+    IsVBR           : 0
+  Duration: 00:00:55.46, start: 0.000000, bitrate: 727 kb/s
+    Stream #0:0: Audio: wmav2 (a[1][0][0] / 0x0161), 44100 Hz, stereo, fltp, 128 kb/s
+    Stream #0:1: Video: wmv3 (Main) (WMV3 / 0x33564D57), yuv420p, 512x288, 700 kb/s, SAR 1:1 DAR 16:9, 25 tbr, 1k tbn, 1k tbc
+Please use -b:a or -b:v, -b is ambiguous
+Invalid frame size: 480×320.
+
+===========================================================
+Monday 27th of January 2014 03:32:18 PM
+===========================================================
+
+ffmpeg version N-60202-g6369766 Copyright (c) 2000-2014 the FFmpeg developers
+  built on Jan 27 2014 01:57:25 with gcc 4.8.2 (GCC)
+  configuration: --enable-gpl --enable-version3 --disable-w32threads --enable-avisynth --enable-bzlib --enable-fontconfig --enable-frei0r --enable-gnutls --enable-iconv --enable-libass --enable-libbluray --enable-libcaca --enable-libfreetype --enable-libgsm --enable-libilbc --enable-libmodplug --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-librtmp --enable-libschroedinger --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libx264 --enable-libxavs --enable-libxvid --enable-zlib
+  libavutil      52. 63.100 / 52. 63.100
+  libavcodec     55. 49.100 / 55. 49.100
+  libavformat    55. 26.100 / 55. 26.100
+  libavdevice    55.  5.102 / 55.  5.102
+  libavfilter     4.  1.101 /  4.  1.101
+  libswscale      2.  5.101 /  2.  5.101
+  libswresample   0. 17.104 /  0. 17.104
+  libpostproc    52.  3.100 / 52.  3.100
+[wmv3 @ 003de700] Extra data: 8 bits left, value: 0
+Guessed Channel Layout for  Input Stream #0.0 : stereo
+Input #0, asf, from 'C:\wamp\www\testHLS\dog-race.wmv':
+  Metadata:
+    WMFSDKNeeded    : 0.0.0.0000
+    DeviceConformanceTemplate: MP@ML
+    NumberOfFrames  : 1375
+    WMFSDKVersion   : 11.0.5721.5275
+    IsVBR           : 0
+  Duration: 00:00:55.46, start: 0.000000, bitrate: 727 kb/s
+    Stream #0:0: Audio: wmav2 (a[1][0][0] / 0x0161), 44100 Hz, stereo, fltp, 128 kb/s
+    Stream #0:1: Video: wmv3 (Main) (WMV3 / 0x33564D57), yuv420p, 512x288, 700 kb/s, SAR 1:1 DAR 16:9, 25 tbr, 1k tbn, 1k tbc
+Please use -b:a or -b:v, -b is ambiguous
+Invalid frame size: 480×320.
+
+===========================================================
+Monday 27th of January 2014 11:17:48 AM
+===========================================================
+
+ffmpeg version N-45658-geb19d89-syslint Copyright (c) 2000-2012 the FFmpeg developers
+  built on Oct 18 2012 04:35:45 with gcc 4.1.2 (GCC) 20080704 (Red Hat 4.1.2-52)
+  configuration: --prefix=/usr/local/cpffmpeg --enable-shared --enable-nonfree --enable-gpl --enable-pthreads --enable-libopencore-amrnb --enable-decoder=liba52 --enable-libopencore-amrwb --enable-libfaac --enable-libmp3lame --enable-libtheora --enable-libvorbis --enable-libvpx --enable-libx264 --enable-libxvid --extra-cflags=-I/usr/local/cpffmpeg/include/ --extra-ldflags=-L/usr/local/cpffmpeg/lib --enable-version3 --extra-version=syslint
+  libavutil      51. 76.100 / 51. 76.100
+  libavcodec     54. 66.100 / 54. 66.100
+  libavformat    54. 33.100 / 54. 33.100
+  libavdevice    54.  3.100 / 54.  3.100
+  libavfilter     3. 19.103 /  3. 19.103
+  libswscale      2.  1.101 /  2.  1.101
+  libswresample   0. 16.100 /  0. 16.100
+  libpostproc    52.  1.100 / 52.  1.100
+[wmv3 @ 0x92f0580] Extra data: 8 bits left, value: 0
+Guessed Channel Layout for  Input Stream #0.0 : stereo
+Input #0, asf, from '/home/brainver/public_html/testHLS/dog-race.wmv':
+  Metadata:
+    WMFSDKVersion   : 11.0.5721.5275
+    WMFSDKNeeded    : 0.0.0.0000
+    IsVBR           : 0
+  Duration: 00:00:55.46, start: 0.000000, bitrate: 727 kb/s
+    Stream #0:0: Audio: wmav2 (a[1][0][0] / 0x0161), 44100 Hz, stereo, fltp, 128 kb/s
+    Stream #0:1: Video: wmv3 (Main) (WMV3 / 0x33564D57), yuv420p, 512x288, 700 kb/s, SAR 1:1 DAR 16:9, 25 tbr, 1k tbn, 1k tbc
+-async is forwarded to lavfi similarly to -af aresample=min_comp=0.001:min_hard_comp=0.100000.
+[NULL @ 0x9306120] [Eval @ 0xbfd0e410] Undefined constant or missing '(' in 'mixed_refs'
+[NULL @ 0x9306120] Unable to parse option value "mixed_refs"
+[NULL @ 0x9306120] Error setting option flags2 to value +mixed_refs.
+Output #0, mpegts, to '/home/brainver/public_html/testHLS/output/dog-video.ts':
+  Metadata:
+    WMFSDKVersion   : 11.0.5721.5275
+    WMFSDKNeeded    : 0.0.0.0000
+    IsVBR           : 0
+    Stream #0:0: Video: none, yuv420p, 480x320 [SAR 8:9 DAR 4:3], q=-1--1, 1200 kb/s, 90k tbn, 30 tbc
+    Stream #0:1: Audio: none, 48000 Hz, stereo, s16, 128 kb/s
+Stream mapping:
+  Stream #0:1 -> #0:0 (wmv3 -> libx264)
+  Stream #0:0 -> #0:1 (wmav2 -> libfaac)
+Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bit_rate, rate, width or height
+
+===========================================================
+Monday 27th of January 2014 11:23:16 AM
+===========================================================
+
+ffmpeg version N-45658-geb19d89-syslint Copyright (c) 2000-2012 the FFmpeg developers
+  built on Oct 18 2012 04:35:45 with gcc 4.1.2 (GCC) 20080704 (Red Hat 4.1.2-52)
+  configuration: --prefix=/usr/local/cpffmpeg --enable-shared --enable-nonfree --enable-gpl --enable-pthreads --enable-libopencore-amrnb --enable-decoder=liba52 --enable-libopencore-amrwb --enable-libfaac --enable-libmp3lame --enable-libtheora --enable-libvorbis --enable-libvpx --enable-libx264 --enable-libxvid --extra-cflags=-I/usr/local/cpffmpeg/include/ --extra-ldflags=-L/usr/local/cpffmpeg/lib --enable-version3 --extra-version=syslint
+  libavutil      51. 76.100 / 51. 76.100
+  libavcodec     54. 66.100 / 54. 66.100
+  libavformat    54. 33.100 / 54. 33.100
+  libavdevice    54.  3.100 / 54.  3.100
+  libavfilter     3. 19.103 /  3. 19.103
+  libswscale      2.  1.101 /  2.  1.101
+  libswresample   0. 16.100 /  0. 16.100
+  libpostproc    52.  1.100 / 52.  1.100
+[wmv3 @ 0x95b1580] Extra data: 8 bits left, value: 0
+Guessed Channel Layout for  Input Stream #0.0 : stereo
+Input #0, asf, from '/home/brainver/public_html/testHLS/dog-race.wmv':
+  Metadata:
+    WMFSDKVersion   : 11.0.5721.5275
+    WMFSDKNeeded    : 0.0.0.0000
+    IsVBR           : 0
+  Duration: 00:00:55.46, start: 0.000000, bitrate: 727 kb/s
+    Stream #0:0: Audio: wmav2 (a[1][0][0] / 0x0161), 44100 Hz, stereo, fltp, 128 kb/s
+    Stream #0:1: Video: wmv3 (Main) (WMV3 / 0x33564D57), yuv420p, 512x288, 700 kb/s, SAR 1:1 DAR 16:9, 25 tbr, 1k tbn, 1k tbc
+-async is forwarded to lavfi similarly to -af aresample=min_comp=0.001:min_hard_comp=0.100000.
+[NULL @ 0x95c7120] [Eval @ 0xbfad91c0] Undefined constant or missing '(' in 'mixed_refs'
+[NULL @ 0x95c7120] Unable to parse option value "mixed_refs"
+[NULL @ 0x95c7120] Error setting option flags2 to value +mixed_refs.
+Output #0, mpegts, to '/home/brainver/public_html/testHLS/output/dog-video.ts':
+  Metadata:
+    WMFSDKVersion   : 11.0.5721.5275
+    WMFSDKNeeded    : 0.0.0.0000
+    IsVBR           : 0
+    Stream #0:0: Video: none, yuv420p, 480x320 [SAR 8:9 DAR 4:3], q=-1--1, 1200 kb/s, 90k tbn, 30 tbc
+    Stream #0:1: Audio: none, 48000 Hz, stereo, s16, 128 kb/s
+Stream mapping:
+  Stream #0:1 -> #0:0 (wmv3 -> libx264)
+  Stream #0:0 -> #0:1 (wmav2 -> libfaac)
+Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bit_rate, rate, width or height
+
+===========================================================
+Monday 27th of January 2014 11:24:05 AM
+===========================================================
+
+ffmpeg version N-45658-geb19d89-syslint Copyright (c) 2000-2012 the FFmpeg developers
+  built on Oct 18 2012 04:35:45 with gcc 4.1.2 (GCC) 20080704 (Red Hat 4.1.2-52)
+  configuration: --prefix=/usr/local/cpffmpeg --enable-shared --enable-nonfree --enable-gpl --enable-pthreads --enable-libopencore-amrnb --enable-decoder=liba52 --enable-libopencore-amrwb --enable-libfaac --enable-libmp3lame --enable-libtheora --enable-libvorbis --enable-libvpx --enable-libx264 --enable-libxvid --extra-cflags=-I/usr/local/cpffmpeg/include/ --extra-ldflags=-L/usr/local/cpffmpeg/lib --enable-version3 --extra-version=syslint
+  libavutil      51. 76.100 / 51. 76.100
+  libavcodec     54. 66.100 / 54. 66.100
+  libavformat    54. 33.100 / 54. 33.100
+  libavdevice    54.  3.100 / 54.  3.100
+  libavfilter     3. 19.103 /  3. 19.103
+  libswscale      2.  1.101 /  2.  1.101
+  libswresample   0. 16.100 /  0. 16.100
+  libpostproc    52.  1.100 / 52.  1.100
+[wmv3 @ 0x8aaa580] Extra data: 8 bits left, value: 0
+Guessed Channel Layout for  Input Stream #0.0 : stereo
+Input #0, asf, from '/home/brainver/public_html/testHLS/dog-race.wmv':
+  Metadata:
+    WMFSDKVersion   : 11.0.5721.5275
+    WMFSDKNeeded    : 0.0.0.0000
+    IsVBR           : 0
+  Duration: 00:00:55.46, start: 0.000000, bitrate: 727 kb/s
+    Stream #0:0: Audio: wmav2 (a[1][0][0] / 0x0161), 44100 Hz, stereo, fltp, 128 kb/s
+    Stream #0:1: Video: wmv3 (Main) (WMV3 / 0x33564D57), yuv420p, 512x288, 700 kb/s, SAR 1:1 DAR 16:9, 25 tbr, 1k tbn, 1k tbc
+-async is forwarded to lavfi similarly to -af aresample=min_comp=0.001:min_hard_comp=0.100000.
+[NULL @ 0x8ac0120] [Eval @ 0xbfe2a420] Undefined constant or missing '(' in 'mixed_refs'
+[NULL @ 0x8ac0120] Unable to parse option value "mixed_refs"
+[NULL @ 0x8ac0120] Error setting option flags2 to value +mixed_refs.
+Output #0, mpegts, to '/home/brainver/public_html/testHLS/output/dog-video.ts':
+  Metadata:
+    WMFSDKVersion   : 11.0.5721.5275
+    WMFSDKNeeded    : 0.0.0.0000
+    IsVBR           : 0
+    Stream #0:0: Video: none, yuv420p, 480x320 [SAR 8:9 DAR 4:3], q=-1--1, 1200 kb/s, 90k tbn, 30 tbc
+    Stream #0:1: Audio: none, 48000 Hz, stereo, s16, 128 kb/s
+Stream mapping:
+  Stream #0:1 -> #0:0 (wmv3 -> libx264)
+  Stream #0:0 -> #0:1 (wmav2 -> libfaac)
+Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bit_rate, rate, width or height
+
