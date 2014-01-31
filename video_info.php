@@ -1,9 +1,10 @@
 <?php
-$dir = getcwd();
+//$dir = getcwd();
+$dir = getcwd().'/';
 //print $dir;exit;
 //$dir = "C:\\wamp\\www\\testHLS\\";
 //$file = "/dog-race.wmv";
-$file = "/output/dog-race.ts";
+$file = "output/dog-race.ts";
 $raw_video_path = $dir.$file;//full path of raw video file	
 //Show video file meta data
 //$ffmpeg_path = "C:\\ffmpeg\\bin\\ffmpeg";		
@@ -24,7 +25,7 @@ $start_time = time();
 $max_time_for_converson = 3*60;
 
 //$save_folder = $ffmpeg->generate_output_filename("dog-race.wmv", NULL, false);
-$output_path = $dir."/output/";
+$output_path = $dir."output/";
 //print $output_path;
 //$videofile = $ffmpeg->convert_to_ts($raw_video_path, $output_path, false, 1200);	// params: source, destination, use2Pass, bitrate(K)
 
